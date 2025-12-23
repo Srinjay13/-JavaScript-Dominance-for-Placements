@@ -6,7 +6,6 @@ Welcome to **JavaScript-Dominance-for-Placements** — a concept-heavy, example-
 
 This repo is not about frameworks.
 It’s about **thinking like a JavaScript engineer**.
-
 ---
 
 ## 📚 Table of Contents
